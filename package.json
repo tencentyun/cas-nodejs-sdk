@@ -1,0 +1,27 @@
+{
+  "name": "cas-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "cas nodejs sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node demo/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tencentyun/cas-nodejs-sdk.git"
+  },
+  "keywords": [],
+  "author": "galenye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tencentyun/cas-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/tencentyun/cas-nodejs-sdk#readme",
+  "dependencies": {
+    "eventproxy": "^0.3.5",
+    "mkdirp": "^0.5.1",
+    "request": "^2.81.0",
+    "uuid": "^3.0.1",
+    "os": "^0.1.1"
+  }
+}
